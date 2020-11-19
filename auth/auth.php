@@ -10,7 +10,7 @@
     /**
      * Reading API Credentials from file and creating store instance
      */
-    $credentialsFile = 'BigCommerceAPI-credentials-e5r4ahmrkets4a9o2uabem4qsv21upj-.txt';
+    $credentialsFile = 'BigCommerceAPICredentials.txt';
     $myStore = new Store();
     $myStore = StoreFileReader::processFileReadOnly($credentialsFile, $myStore);
 ?>

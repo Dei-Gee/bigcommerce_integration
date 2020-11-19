@@ -20,7 +20,7 @@ You can use this project however you want. You may insert it into a larger more 
 ```
 ACCESS TOKEN=abcdefgh1234567
 CLIENT ID=1a2b3c4d5e6f7g8h9i10j11k12l
-CLIENT SECRET=oij212ijo3oieodoiwjeoij4jio343nowoij34oj3o4oldolmxbfejff
+CLIENT SECRET=34jn3i4un3i4ni34ni34n3iun43i4un34uni3
 NAME=MyBigCommerceAPIAccount
 API PATH=https://api.bigcommerce.com/stores/{store_hash}/
 ```
